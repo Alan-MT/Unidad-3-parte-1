@@ -1,0 +1,7 @@
+Algoritmo Ejercicio6
+	num <- azar(200)
+	Escribir "El numero aleatorio es ",num
+	aumento <- num*(30/100);
+	num <- num+aumento;
+	Escribir "El numero aumento es " ,num
+FinAlgoritmo
