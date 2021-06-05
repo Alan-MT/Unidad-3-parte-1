@@ -1,0 +1,6 @@
+Algoritmo Ejercicio1
+	leer numero1;
+	leer numero2;
+	resultado = numero1+numero2;
+	Escribir "El resultado de la suma es: " resultado
+FinAlgoritmo
