@@ -1,0 +1,6 @@
+Algoritmo Ejercicio5
+	Escribir "Ingrese el numero"
+	leer num;
+	siguiente = num+1;
+	Escribir "El numero siguiente es ",siguiente
+FinAlgoritmo
