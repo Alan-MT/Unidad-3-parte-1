@@ -1,0 +1,7 @@
+Algoritmo Ejercicio2
+	leer num;
+	doble = 2*num;
+	triple = 3*num;
+	Escribir "El doble del numero ingresado es ", doble
+	Escribir "El triple del numero ingresado es ", triple
+FinAlgoritmo
