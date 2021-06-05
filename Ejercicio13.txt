@@ -1,0 +1,16 @@
+Algoritmo Ejercicio13
+	Escribir "Ingrese el radio"
+	leer R
+	Escribir "Ingrese la altura"
+	Leer A
+	Si R > 0 Entonces
+		Si A > 0 Entonces
+			V = PI*A*(R^2)
+			Escribir "El volumen del cilindro es de ", V
+		SiNo
+			Escribir "La altura no puede ser negativa"
+		Fin Si
+	SiNo
+		Escribir "El radio no puede ser negativo"
+	Fin Si
+FinAlgoritmo
