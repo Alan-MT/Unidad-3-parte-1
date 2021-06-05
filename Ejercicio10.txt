@@ -1,0 +1,10 @@
+Algoritmo Ejercicio10
+	Escribir "ingrese la base del rectangulo"
+	Leer base
+	Escribir "Ingresa la altura del rectangulo"
+	Leer altura
+	perimetro = 2*base + 2*altura;
+	area = base*altura;
+	Escribir "El Area es de  " area
+	Escribir "El perimetro es de " perimetro
+FinAlgoritmo
