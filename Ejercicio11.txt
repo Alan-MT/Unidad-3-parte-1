@@ -1,0 +1,13 @@
+Algoritmo Ejercicio11
+	Escribir "ingrese el valor a transformar"
+	Leer num
+	yardas = num*0.0109361;
+	metros = num/100
+	pies = num/30.48
+	pulgadas = num/2.54
+	Escribir "Los valores tansformados son los siguientes"
+	Escribir "yardas: ",yardas
+	Escribir "metros: ", metros
+	Escribir "pies: ",pies
+	Escribir "pulgadas: ",pulgadas
+FinAlgoritmo
