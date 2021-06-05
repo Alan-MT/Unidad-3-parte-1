@@ -1,0 +1,11 @@
+Algoritmo Ejercicio9
+	Escribir "Ingrese la primera palabra"
+	Leer A
+	Escribir "Ingresa la segunda palabra"
+	Leer B
+	C = B
+	B = A
+	A = C
+	Escribir "la primera palabra es ", A
+	Escribir "La segunda palabra es " B
+FinAlgoritmo
