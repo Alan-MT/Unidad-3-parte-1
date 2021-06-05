@@ -1,0 +1,6 @@
+Algoritmo Ejercicio12
+	Escribir "Ingrese la temperatura a transformar"
+	leer c
+	F = (c*9/5)+32;
+	Escribir "La temperatura es de ", F," Farehhit"
+FinAlgoritmo
