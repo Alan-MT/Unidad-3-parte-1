@@ -1,0 +1,17 @@
+Algoritmo Ejercicio17
+	Escribir "Ingrese el primer lado"
+	leer A
+	Escribir "Ingrese el segundo lado"
+	leer B
+	Escribir "Ingrese el tercer lado"
+	leer C
+	Si A=B Y A=C Entonces
+		Escribir "El triangulo es Equilatero"
+	SiNo
+		Si A<>B Y A<>C Y C<>B Entonces
+			Escribir "El triangulo es Escaleno"
+		SiNo
+			Escribir "El triangulo es Isoceles"
+		Fin Si
+	Fin Si
+FinAlgoritmo
