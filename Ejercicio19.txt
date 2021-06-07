@@ -1,0 +1,9 @@
+Algoritmo Ejercicio19
+	N <- Aleatorio(1,1000)
+	Escribir "el numero generado es ", N
+	Si N MOD 5 = 0 y n <= 25 Entonces
+		Escribir "CORRECTO"
+	SiNo
+		Escribir "INCORRECTO"
+	Fin Si
+FinAlgoritmo
