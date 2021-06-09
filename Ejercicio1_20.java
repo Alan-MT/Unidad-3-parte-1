@@ -7,7 +7,7 @@ public class Ejercicio1_20 {
 		numero1 = scanner.nextInt();
 		numero2 = scanner.nextInt();
 		int resultado = numero1+numero2;
-		System.out.println("El resultado de la suma es: "+resultado);
+		System.out.println("El resultado de la suma es: "+resultado)
 	}
 
 
